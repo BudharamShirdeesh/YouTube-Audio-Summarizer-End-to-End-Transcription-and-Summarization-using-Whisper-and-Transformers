@@ -1,0 +1,7 @@
+pytube
+openai-whisper
+transformers
+torchaudio
+yt-dlp
+nltk
+ffmpeg-python
